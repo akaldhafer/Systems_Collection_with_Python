@@ -11,7 +11,7 @@ d2.close()
 
 def Welcome():
         print('_________________________________________________________________________________')
-        print('-********************* MEDILIFE HELATH INSURANCE SCHEME ************************-')
+        print('-********************* DHAFER HEALTH INSURANCE SCHEME ************************-')
         print('1) Register new patient')
         print('2) Patient Claim Options')
         print('3) Search for Patients')
