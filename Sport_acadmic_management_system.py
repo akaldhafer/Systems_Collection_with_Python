@@ -6,7 +6,7 @@
 
 #import json for list implementation
 import json
-import os
+import os #to use pause and cls clrean screen 
 
 
 #Sport center list
@@ -28,7 +28,7 @@ def MainMenu():
     DeclareFile5.close()
     
     #System menu
-    print('\n********    REAL CHAMPIONS SPORT ACADEMY SYSTEM   ********')
+    print('\n********    ALDHAFER SPORT ACADEMY SYSTEM   ********')
     print('__________________________________________________________')
     print('1. Login as admin')
     print('2. Login as customer')
