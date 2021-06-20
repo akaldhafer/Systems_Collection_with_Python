@@ -5,7 +5,7 @@
 
 #import extra header files
 import datetime
-import os
+import os #to use pause and cls clean screen
 import json
 #my list for business class
 BCS = ["B1", "B2", "B3", "B4"]
