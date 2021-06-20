@@ -3,7 +3,8 @@
 #Email: Ak_aldhafer@hotmail.com
 #System title: AUTOMOBILE PARTS INVENTORY MANAGEMENT SYSTEM 
 
-import os#files 
+
+import os #to use pause and cls
 import json#to make the list easier to be read 
 
 warehouses = [["Bios", "BS", "WBS"], ["Ambry", "AY", "WAY"], ["Barrier", "BR", "WBR"]]
